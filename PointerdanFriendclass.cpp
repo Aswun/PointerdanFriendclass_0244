@@ -32,4 +32,6 @@ int main()
 {
     persegiPanjang pp;
     Segitiga sg;
+    cout << "Masukan Panjang : ";
+    cin >> pp.panjang;
 }
