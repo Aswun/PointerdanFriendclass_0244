@@ -34,4 +34,6 @@ int main()
     Segitiga sg;
     cout << "Masukan Panjang : ";
     cin >> pp.panjang;
+    cout << "Masukan Lebar : ";
+    cin >> pp.lebar;
 }
