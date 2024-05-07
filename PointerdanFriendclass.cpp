@@ -27,3 +27,8 @@ class Segitiga
         return p.panjang;
     }
 };
+
+int main()
+{
+    
+}
