@@ -11,3 +11,8 @@ class persegiPanjang
         return a * b;
     }
 };
+
+class Segitiga
+{
+
+};
