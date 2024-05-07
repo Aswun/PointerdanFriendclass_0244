@@ -40,4 +40,6 @@ int main()
     cin >> sg.tinggi;
     cout << "Masukan Alas : ";
     cin >> sg.alas;
+    cout << "Luas Persegi Panjang : " << pp.luasPersegiPanjang(pp.panjang, pp.lebar) << endl;
+    cout << "Luas Seigitga : " << sg.luasSegitiga(sg.alas, sg.tinggi) << endl;
 }
