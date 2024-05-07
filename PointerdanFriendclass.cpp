@@ -30,5 +30,6 @@ class Segitiga
 
 int main()
 {
-    
+    persegiPanjang pp;
+    Segitiga sg;
 }
